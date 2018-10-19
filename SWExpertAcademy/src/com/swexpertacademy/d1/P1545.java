@@ -3,7 +3,6 @@ package com.swexpertacademy.d1;
 /*
  * 2018-10-09
  * P1545. 거꾸로 출력해 보아요
- * 주어진 숫자부터 0까지 순서대로 찍어보세요
  * @input	: n
  * @output	: n n-1 ... 0
 */
